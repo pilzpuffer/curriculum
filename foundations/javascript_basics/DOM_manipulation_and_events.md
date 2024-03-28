@@ -425,6 +425,7 @@ Manipulating web pages is the primary benefit of the JavaScript language! These 
 
    - [JavaScript events](https://www.javascripttutorial.net/javascript-dom/javascript-events/)
    - [Page load events](https://www.javascripttutorial.net/javascript-dom/javascript-page-load-events/)
+   - [Event bubbling](https://www.youtube.com/watch?v=SqQZ8SttQsI)
    - [Mouse events](https://www.javascripttutorial.net/javascript-dom/javascript-mouse-events/)
    - [Keyboard events](https://www.javascripttutorial.net/javascript-dom/javascript-keyboard-events/)
    - [Event delegation](https://www.javascripttutorial.net/javascript-dom/javascript-event-delegation/)
